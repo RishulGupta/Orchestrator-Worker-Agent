@@ -1,8 +1,11 @@
 
 Orchestral Worker for Agentic AI
 =================================
-<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/c70114b7f3cc1b5accb3e16090e768fb4623792b/Screenshot%202025-07-22%20182918.png">
-<img src="">
+<div align=center>
+<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/c70114b7f3cc1b5accb3e16090e768fb4623792b/Screenshot%202025-07-22%20182918.png" width=800>
+<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/ca24b2e66a81697c9addfe1dd83e26186b640df9/Screenshot%202025-07-22%20182937.png" height=300>
+</div>
+
 Overview
 --------
 
@@ -38,8 +41,8 @@ Technologies Used
 -----------------
 
 - Python
-- LangChain or CrewAI-style libraries (optional)
-- LLM APIs (e.g., OpenAI GPT-4, Claude, etc.)
+- LangChain
+- LLM APIs (e.g., OpenAI GPT-4,etc.)
 - State management with simple in-memory or persistent storage
 
 Features
@@ -72,12 +75,3 @@ To run the orchestral worker:
    python main.py
    ```
 
-Customization
--------------
-
-You can define your own agents inside the `/agents` directory and register them with the orchestral worker. Each agent should expose a simple callable interface the worker can use.
-
-License
--------
-
-This project is licensed under the MIT License.
