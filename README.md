@@ -1,7 +1,8 @@
 
 Orchestral Worker for Agentic AI
 =================================
-
+<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/c70114b7f3cc1b5accb3e16090e768fb4623792b/Screenshot%202025-07-22%20182918.png">
+<img src="">
 Overview
 --------
 
