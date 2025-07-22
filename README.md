@@ -2,7 +2,7 @@
 Orchestral Worker for Agentic AI
 =================================
 <div align=center>
-<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/c70114b7f3cc1b5accb3e16090e768fb4623792b/Screenshot%202025-07-22%20182918.png" width=800>
+<img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/c70114b7f3cc1b5accb3e16090e768fb4623792b/Screenshot%202025-07-22%20182918.png" width=650>
 <img src="https://github.com/RishulGupta/Orchestrator-Worker-Agent/blob/ca24b2e66a81697c9addfe1dd83e26186b640df9/Screenshot%202025-07-22%20182937.png" height=300>
 </div>
 
@@ -53,25 +53,5 @@ Features
 - Support for step retries and error handling
 - Extensible interface for custom agent behaviors
 - Easily integratable with existing multi-agent frameworks
-
-Getting Started
----------------
-
-To run the orchestral worker:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/orchestral-worker.git
-   cd orchestral-worker
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the main orchestration:
-   ```
-   python main.py
-   ```
+  
 
